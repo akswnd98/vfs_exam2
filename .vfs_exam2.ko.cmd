@@ -1,0 +1,1 @@
+cmd_/home/akswnd98/git_env/vfs_exam2/vfs_exam2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/akswnd98/git_env/vfs_exam2/vfs_exam2.ko /home/akswnd98/git_env/vfs_exam2/vfs_exam2.o /home/akswnd98/git_env/vfs_exam2/vfs_exam2.mod.o
